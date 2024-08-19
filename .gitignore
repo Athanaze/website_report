@@ -1,0 +1,24 @@
+# Secrets
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Output files
+website_report.pdf
+website_info.json
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+whois
+requests
+beautifulsoup4
+dnspython
+user-agents
+tldextract
+shodan
+reportlab
+builtwith
