@@ -1,6 +1,6 @@
 # Website Analyzer
 
-
+![2024-08-19-225648_670x864_scrot](https://github.com/user-attachments/assets/fa3698b4-3632-4220-94ea-94bf255aed55)
 
 This project analyzes a list of websites and generates a comprehensive PDF report containing various details about each site, including WHOIS information, DNS records, SSL certificates, and more.
 
